@@ -15,4 +15,5 @@ Edição	Descrição
 2025–2026	State of Data Brasil 2025–2026
 
 Os dados foram utilizados a partir das edições de 2023, 2024 e 2025-2026 e processados no pipeline desenvolvido em AWS.
-LInk: https://www.kaggle.com/datahackers/datasets
+
+https://www.kaggle.com/datahackers/datasets
