@@ -66,10 +66,9 @@ A análise demonstra associação entre maior nível de formação acadêmica e 
 Os dados indicam um diferencial salarial associado ao nível de formação, embora a análise não permita afirmar uma relação causal.
 
 ### 8. Modelo de trabalho
+A participação do trabalho 100% remoto apresentou redução entre 2024 e 2025–2026, passando de 45,7% para 39,7%.
 
-A participação do trabalho 100% remoto apresentou redução entre 2024 e 2025–2026, passando de 42,6% para 36,7%.
-
-No mesmo período, observa-se crescimento dos modelos presencial e híbrido.
+No mesmo período, observa-se crescimento dos modelos presencial (16,3% para 20,8%) e híbrido.
 
 O comportamento é compatível com uma redução do trabalho remoto integral no período analisado, embora não seja possível atribuir causalidade apenas aos dados da pesquisa.
 
